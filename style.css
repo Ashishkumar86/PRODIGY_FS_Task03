@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+.product {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin: 10px;
+  display: inline-block;
+  width: 200px;
+}
+.product img {
+  width: 100%;
+  height: 150px;
+}
